@@ -1,0 +1,220 @@
+{
+  "admin_token": "5uzhcbg2jn",
+  "users": {
+    "0mn9EdFD5b": {
+      "name": "kiran",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "K8GgNNE2Ae": {
+      "name": "kiran",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "37lmavC2Qk": {
+      "name": "kriti",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "ORsDxPlasq": {
+      "name": "sita",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "BqxCWytF7T": {
+      "name": "kiyara",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "EAeCV607E8": {
+      "name": "dipti",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "SWJ3GpGp2h": {
+      "name": "kiyara",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "yOB3wPYvOG": {
+      "name": "siya",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "eYX2bDMSUO": {
+      "name": "anaya",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "u2j1Yu1i87": {
+      "name": "ansh",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "Qtib9SU3ws": {
+      "name": "krina",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "aahXTSPwB5": {
+      "name": "smita",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "yqAyubc3zQ": {
+      "name": "dwiti",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "YYluU0KtLg": {
+      "name": "divya",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "UyEyHf73Kv": {
+      "name": "kriti",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "dgl6pMf7qa": {
+      "name": "aamna",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "T2h05ABMLA": {
+      "name": "divya",
+      "permissions": [],
+      "borrowed_books": {
+        "The Great Gatsby": "2023-12-04"
+      }
+    },
+    "v0HMn05oXn": {
+      "name": "seema",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "iZpyUHiaWz": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "bv3NeRpnpO": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "7HW53V4zzz": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "0Q5KAc8BZb": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "DMGXSZePMx": {
+      "name": "sidhhi",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "mGwSsjlUEI": {
+      "name": "Nigam",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "4TeVP9hXuW": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "KSXYG9JuGr": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "PuX6TtSofz": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "nboOfJeiVu": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "YtYNS7uAnC": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "5uzhcbg2jn": {
+      "name": "Admin",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "gTyraRcnZC": {
+      "name": "siya",
+      "permissions": [],
+      "borrowed_books": {
+        "hufufufiu": "2024-01-02"
+      }
+    },
+    "bwzJtrpV19": {
+      "name": "kanchan",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "nemipVdiH1": {
+      "name": "Prachi",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "BNUqFJ2K04": {
+      "name": "Lovvy",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "12IXbvyj24": {
+      "name": "Shalini",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "OnoX4A4XIW": {
+      "name": "Shalini",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "8QjNSHi07V": {
+      "name": "Shalini",
+      "permissions": [],
+      "borrowed_books": {}
+    },
+    "10IC2Xe0E5": {
+      "name": "Aaliya",
+      "permissions": [],
+      "borrowed_books": {
+        "war and peace": "2024-01-03"
+      }
+    },
+    "ITV0UUf60W": {
+      "name": "Komal",
+      "permissions": [],
+      "borrowed_books": {
+        "the great gatsby": "2024-01-03"
+      }
+    },
+    "yZOk27bn9m": {
+      "name": "Akshat",
+      "permissions": [],
+      "borrowed_books": {
+        "the great gatsby": "2024-01-03"
+      }
+    },
+    "T27DJfJZbU": {
+      "name": "Atif",
+      "permissions": [],
+      "borrowed_books": {}
+    }
+  }
+}

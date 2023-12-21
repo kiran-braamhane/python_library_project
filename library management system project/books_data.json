@@ -1,0 +1,148 @@
+{
+  "books": {
+    "fiction": {
+      "english": {
+        "1984": {
+          "author": "George Orwell",
+          "copies": 3
+        },
+        "the great gatsby": {
+          "author": "F. Scott Fitzgerald",
+          "copies": 2
+        },
+        "pride and prejudice": {
+          "author": "Jane Austen",
+          "copies": 4
+        },
+        "moby-dick": {
+          "author": "Herman Melville",
+          "copies": 7
+        },
+        "war and peace": {
+          "author": "Leo Tolstoy",
+          "copies": 2
+        },
+        "the catcher in the rye": {
+          "author": "J.D. Salinger",
+          "copies": 5
+        },
+        "the hobbit": {
+          "author": "J.R.R. Tolkien",
+          "copies": 3
+        },
+        "brave new world": {
+          "author": "Aldous Huxley",
+          "copies": 4
+        },
+        "the shining": {
+          "author": "Stephen King",
+          "copies": 3
+        },
+        "the horror girl": {
+          "author": "Syman Gid",
+          "copies": 2
+        },
+        "new_book_1": {
+          "author": "Author 1",
+          "copies": 10
+        },
+        "new_book_2": {
+          "author": "Author 2",
+          "copies": 8
+        }
+      },
+      "french": {
+        "le petit prince": {
+          "author": "Antoine de Saint-Exup\u00c3\u00a9ry",
+          "copies": 7
+        },
+        "les miserables": {
+          "author": "Victor Hugo",
+          "copies": 4
+        },
+        "madame bovary": {
+          "author": "Gustave Flaubert",
+          "copies": 5
+        },
+        "l'\u00c3\u00a9tranger": {
+          "author": "Albert Camus",
+          "copies": 3
+        },
+        "new_book_3": {
+          "author": "Author 3",
+          "copies": 6
+        }
+      },
+      "spanish": {
+        "cien a\u00c3\u00b1os de soledad": {
+          "author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+          "copies": 5
+        },
+        "don quijote de la mancha": {
+          "author": "Miguel de Cervantes",
+          "copies": 6
+        },
+        "rayuela": {
+          "author": "Julio Cort\u00c3\u00a1zar",
+          "copies": 3
+        },
+        "new_book_4": {
+          "author": "Author 4",
+          "copies": 7
+        }
+      }
+    },
+    "non-fiction": {
+      "english": {
+        "sapiens": {
+          "author": "Yuval Noah Harari",
+          "copies": 2
+        },
+        "becoming": {
+          "author": "Michelle Obama",
+          "copies": 3
+        },
+        "the immortal life of henrietta lacks": {
+          "author": "Rebecca Skloot",
+          "copies": 6
+        },
+        "the power of habit": {
+          "author": "Charles Duhigg",
+          "copies": 4
+        },
+        "new_book_5": {
+          "author": "Author 5",
+          "copies": 5
+        }
+      },
+      "spanish": {
+        "breve historia del tiempo": {
+          "author": "Stephen Hawking",
+          "copies": 3
+        },
+        "new_book_6": {
+          "author": "Author 6",
+          "copies": 8
+        }
+      },
+      "german": {
+        "die vermessung der welt": {
+          "author": "Daniel Kehlmann",
+          "copies": 2
+        },
+        "angela merkel": {
+          "author": "Reiner Luyken",
+          "copies": 3
+        },
+        "die physiker": {
+          "author": "Friedrich D\u00c3\u00bcrrenmatt",
+          "copies": 4
+        },
+        "new_book_7": {
+          "author": "Author 7",
+          "copies": 9
+        }
+      }
+    }
+  }
+}
